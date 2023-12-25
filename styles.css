@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: #A7727D;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    width: 500px;
+  }
+
+  ol.a {
+    list-style-type: lower-alpha;
+  }
+
+  body {
+    background-color: #F9F5E7;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+  }
+
+  h3, h2, p {
+    color: #A7727D;
+  }
+
+  li {
+    color: #A7727D;
+  }
+
+  a {
+    color: #A7727D;
+  }
+
+  ul.b {
+    text-align: center;
+  }
