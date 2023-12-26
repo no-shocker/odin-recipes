@@ -31,8 +31,5 @@ h1 {
 
   a {
     color: #A7727D;
-  }
-
-  ul.b {
-    text-align: center;
+    font-size: 20px;
   }
